@@ -1,6 +1,6 @@
 ## Otomobil Simülasyon Programı 
 - Simülasyon programı YAZILMADI, sadece gerekli sınıflar ve ara yüzler (interface’ler) oluşturuldu ve üyeleri (özellikleri, metotları vs.) yazıldı. 
-- Program parçaları :
+- ### Program parçaları :
   + ### Elektronik Beyin 
   Bütün elektronik parçaları beyin kontrol edecektir. Örneğin gaz pedalına basıldığında bu bilgi beyne iletilecek, beyin de eğer araç çalışıyorsa bu bilgiyi motora iletecek, çalışmıyorsa göz ardı edecektir. Ya da örneğin sinyal kumanda kolundan sola sinyal verildiğinde bu bilgi beyne iletilecek, beyin de sinyal lambalarını yakacaktır. 
   + ### Motor 
@@ -32,4 +32,5 @@
     * Aracın geri geri gidemediği varsayıldı. 
 
 
-- Ayrıca sınıfların UML sınıf diyagramı çizilmiştir. 
+- ### Sınıfların UML sınıf diyagramı :
+![UML](https://github.com/nermiin/Object_Oriented_Programming_course/blob/master/Automobile%20Simulation%20with%20UML/UML.png)
